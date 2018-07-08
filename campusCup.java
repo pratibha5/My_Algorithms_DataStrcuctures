@@ -108,6 +108,7 @@ public class CampusCup {
 	    Collections.sort(three);
 	    Collections.sort(two);
 	    Collections.sort(one);
+	    Collections.sort(none);
 	    ArrayList<String> finalArr = new ArrayList<>();
 	    finalArr.addAll(five);
 	    finalArr.addAll(four);
